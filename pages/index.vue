@@ -37,7 +37,9 @@
           </svg>
         </div>
 
-        <h1 class="mt-5 font-poppins font-semibold text-2xl">Sign in</h1>
+        <h1 class="mt-5 font-poppins font-semibold text-2xl">
+          Sign in to continue
+        </h1>
         <h1 class="mt-4 text-gray-500 font-poppins">Use your Google Account</h1>
         <input
           type="text"
